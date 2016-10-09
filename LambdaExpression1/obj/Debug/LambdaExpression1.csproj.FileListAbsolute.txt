@@ -1,0 +1,6 @@
+c:\users\wecancodeit\documents\visual studio 2015\Projects\LambdaExpression1\LambdaExpression1\bin\Debug\LambdaExpression1.exe.config
+c:\users\wecancodeit\documents\visual studio 2015\Projects\LambdaExpression1\LambdaExpression1\bin\Debug\LambdaExpression1.exe
+c:\users\wecancodeit\documents\visual studio 2015\Projects\LambdaExpression1\LambdaExpression1\bin\Debug\LambdaExpression1.pdb
+c:\users\wecancodeit\documents\visual studio 2015\Projects\LambdaExpression1\LambdaExpression1\obj\Debug\LambdaExpression1.csprojResolveAssemblyReference.cache
+c:\users\wecancodeit\documents\visual studio 2015\Projects\LambdaExpression1\LambdaExpression1\obj\Debug\LambdaExpression1.exe
+c:\users\wecancodeit\documents\visual studio 2015\Projects\LambdaExpression1\LambdaExpression1\obj\Debug\LambdaExpression1.pdb
